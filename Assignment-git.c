@@ -21,10 +21,10 @@ int main() {
                 if (b != 0)
                     printf("= %.2f\n\n", a / b);
                 else
-                    printf("= หารรรรรรด้วยศูนย์ไม่ได้\n\n");
+                    printf("= หารด้วยศูนย์ไม่ได้\n\n");
                 break;
             default:
-                printf("= เครื่องหมายยยยไม่ถูกต้อง\n\n");
+                printf("= เครื่องหมายไม่ถูกต้อง\n\n");
         }
     }
 printf("Calculator Program\n");
